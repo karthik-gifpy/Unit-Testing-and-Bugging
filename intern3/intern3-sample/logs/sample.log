@@ -1,0 +1,4 @@
+2025-12-27 10:00:00 INFO  com.example.service.UserService - Fetching user with id=1
+2025-12-27 10:00:00 DEBUG com.example.service.UserService - User found: Alice
+2025-12-27 10:00:01 INFO  com.example.service.UserService - Fetching user with id=2
+2025-12-27 10:00:01 WARN  com.example.service.UserService - User not found: 2
